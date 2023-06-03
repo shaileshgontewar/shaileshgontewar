@@ -1,14 +1,14 @@
-Hi 👋 My name is Shailesh Gontewar
+Hi 👋 my name is Shailesh Gontewar
 ===============================
 
-React Developer,Front-End developer
-------------------------
+React Developer
+---------------
 
 I'm currently working in Techquadra Software Solutions as React Developer
 
 * 🌍  I'm based in Nagpur
 * ✉️  You can contact me at [shaileshsgontewar@gmail.com](mailto:shaileshsgontewar@gmail.com)
-* 🚀  I'm currently looking Front-End Developer Role as Fresher
+* 🚀 I'm currently working in Techquadra Software Solutions as React Developer
 
 ### Skills
 
