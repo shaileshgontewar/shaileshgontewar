@@ -7,7 +7,7 @@ React Developer
 I'm currently working in Techquadra Software Solutions as React Developer
 
 * 🌍  I'm based in Nagpur
-* ✉️  You can contact me at [shaileshsgontewar@gmail.com](mailto:shaileshsgontewar@gmail.com)
+* ✉️  You can contact me at [shaileshgontewar23@gmail.com](mailto:shaileshgontewar23@gmail.com)
 * 🚀 I'm currently working in Techquadra Software Solutions as React Developer
 
 ### Skills
