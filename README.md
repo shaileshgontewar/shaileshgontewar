@@ -38,16 +38,18 @@ I'm a dedicated React Developer currently working at Techquadra Software Solutio
 ---
 
 ### 🌟 Featured Projects
+<!--
 - **[Project Name 1](#)** - Brief description of your project and what tech stack you used.
 - **[Project Name 2](#)** - Brief description and any unique features you implemented.
 - **[Project Name 3](#)** - Add more projects to showcase your portfolio and skills.
 
 ---
+-->
 
 ### 📫 Connect with Me
 
 - **Email:** [shaileshgontewar23@gmail.com](mailto:shaileshgontewar23@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** https://www.linkedin.com/in/shailesh-gontewar-3690721a0/
 
 ---
 
