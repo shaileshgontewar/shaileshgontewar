@@ -1,5 +1,5 @@
 # Hi 👋, I'm Shailesh Gontewar
-## React Developer based in Nagpur
+## MERN Stack Developer based in Nagpur
 
 I'm a dedicated React Developer currently working at Techquadra Software Solutions. I enjoy building responsive, efficient, and scalable web applications. With a solid foundation in JavaScript and the MERN stack, I continuously work to improve my skills and stay updated with the latest technologies.
 
